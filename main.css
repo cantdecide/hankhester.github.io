@@ -135,6 +135,11 @@ li {
 .lang-img, .code-img {
   width: 50px;
 }
+#php {
+  position: relative;
+  width: 60px;
+  top: -3px;
+}
 .lang-bar, .code-bar {
   position: relative;
   bottom: 14px;
