@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="23px" viewBox="0 0 30 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Flag_of_Esperanto</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag_of_Esperanto">
+            <polyline id="Shape" fill="#FFFFFF" points="0 0 10.1 0 10.1 11.615 0 11.615"></polyline>
+            <path d="M0,11.5 L10,11.5 L10,0 L30,0 L30,23 L0,23 M2.9,9.0275 L4.95,1.7825 L7,9.0275 L1.65,4.5425 L8.3,4.5425" id="Shape" fill="#009900"></path>
+            <polygon id="Polygon-1" fill="#009900" transform="translate(4.990614, 5.951250) rotate(180.000000) translate(-4.990614, -5.951250) " points="4.99061434 4.485 6.33122867 5.60511533 5.81915956 7.4175 4.16206911 7.4175 3.65 5.60511533"></polygon>
+        </g>
+    </g>
+</svg>
